@@ -1,0 +1,5 @@
+一个简单的数据库:
+* 数据记录以Pickle(python module)方式保存在文件系统中
+* 支持sub-query 以及复杂 where条件的SQL查询
+* 未来可扩展到Key-Value存储,以实现兼容关系型数据库查询方式
+* It's a Toy
